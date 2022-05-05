@@ -1,0 +1,2 @@
+//scripts
+mkdir components && cd components && mkdir Header List Map PlaceDetails && cd Header && touch Header.jsx Header.styles.scss && cd .. && cd List && touch List.jsx List.styles.scss && cd .. && cd Map && touch Map.jsx Map.styles.scss && cd .. && cd PlaceDetails && touch PlaceDetails.jsx PlaceDetails.styles.scss
